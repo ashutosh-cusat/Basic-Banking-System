@@ -1,7 +1,7 @@
 # Basic-Banking-System
 
 Sparks Foundation Internship Project : Basic Banking System
-A Web Application used to transfer money between multiple customers(contains 10 customers).
+A Web Application used to transfer money between multiple customers(contains 10 customers). And store the data in database.
 
 Stack used--
    Frontend->HTML,CSS,JAVASCRIPT,BOOTSTRAP
